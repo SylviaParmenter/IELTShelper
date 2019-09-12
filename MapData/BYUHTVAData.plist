@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>TVA - A</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.644757, -157.927382}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - B</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.644752, -157.927593}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - C</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.645126, -157.927711}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - D</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.645457, -157.927810}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - E</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.645544, -157.927620}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - F</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.645859, -157.927757}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - G</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.645050, -157.928059}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - H</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.645638, -157.928638}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - J</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.645386, -157.928936}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - K</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.645329, -157.928531}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - L</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.645026, -157.928441}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - N</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.644569, -157.928362}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - M</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.644786, -157.928751}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - P</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.644370, -157.928303}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - Q</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.644578, -157.929100}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - R</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.645297, -157.929327}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - S</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.644033, -157.928451}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - T</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.644153, -157.928054}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - U</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.643696, -157.927917}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - V</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.643637, -157.928405}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - W</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.644074, -157.928927}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - X</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.643457, -157.928268}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA - Z</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.644288, -157.927175}</string>
+		<key>type</key>
+		<string>TVA</string>
+	</dict>
+</array>
+</plist>

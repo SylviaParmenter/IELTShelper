@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Studio</string>
+		<key>subtitle</key>
+		<string>Media Production Center (MPC)</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.640963, -157.925842}</string>
+		<key>type</key>
+		<string>MPC</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Parking</string>
+		<key>subtitle</key>
+		<string>Female Hale (Permit)</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.639830, -157.926064}</string>
+		<key>type</key>
+		<string>parking</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Parking</string>
+		<key>subtitle</key>
+		<string>Male Hale (Permit)</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.639712, -157.925226}</string>
+		<key>type</key>
+		<string>parking</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Parking</string>
+		<key>subtitle</key>
+		<string>Athletics (Permit)</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.640502, -157.922527}</string>
+		<key>type</key>
+		<string>parking</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Parking</string>
+		<key>subtitle</key>
+		<string>HGB (Any TIme)</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.642146, -157.928506}</string>
+		<key>type</key>
+		<string>parking</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Parking</string>
+		<key>subtitle</key>
+		<string>Housing Office &amp; TVA (Permit)</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.643655, -157.927595}</string>
+		<key>type</key>
+		<string>parking</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Parking</string>
+		<key>subtitle</key>
+		<string>TVA (Permit)</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.645791, -157.928723}</string>
+		<key>type</key>
+		<string>parking</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Parking</string>
+		<key>subtitle</key>
+		<string>School of Education &amp; TVA (Permit)</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.645148, -157.927342}</string>
+		<key>type</key>
+		<string>parking</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>TVA Laundry Building</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>subtitle</key>
+		<string>Student Life</string>
+		<key>location</key>
+		<string>{21.645579, -157.928191}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Multi-purpose Center</string>
+		<key>subtitle</key>
+		<string>Student Life</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.644438, -157.927807}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Housing Office</string>
+		<key>subtitle</key>
+		<string>Student Life</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.643744, -157.927402}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Testing Center</string>
+		<key>subtitle</key>
+		<string>Exams</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.641668, -157.926030}</string>
+		<key>type</key>
+		<string>testingCenter</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Academic &amp; Multimedia Lab </string>
+		<key>subtitle</key>
+		<string>Copy Center</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.641490, -157.926457}</string>
+		<key>type</key>
+		<string>multimediaLab</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Natural History Museum</string>
+		<key>subtitle</key>
+		<string>Admission Free</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.640953, -157.926176}</string>
+		<key>type</key>
+		<string>museum</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>School of Education</string>
+		<key>subtitle</key>
+		<string>Education</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.644764, -157.926972}</string>
+		<key>type</key>
+		<string>misc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Give &amp; Take</string>
+		<key>subtitle</key>
+		<string>Second Hand </string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.643819, -157.928842}</string>
+		<key>type</key>
+		<string>store</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Security Office</string>
+		<key>subtitle</key>
+		<string>Public Safety</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.640882, -157.925845}</string>
+		<key>type</key>
+		<string>security</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Facilities Management Office</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.639661, -157.924044}</string>
+		<key>type</key>
+		<string>administration</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Seasider</string>
+		<key>subtitle</key>
+		<string>restaurant</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.641549, -157.924100}</string>
+		<key>type</key>
+		<string>store</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Fitness Center</string>
+		<key>subtitle</key>
+		<string>Cardio and Weights</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.640564, -157.923073}</string>
+		<key>type</key>
+		<string>gym</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Swimming Pool</string>
+		<key>subtitle</key>
+		<string>Open for BYUH and Community</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.640557, -157.923432}</string>
+		<key>type</key>
+		<string>swimming</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Mail Center</string>
+		<key>subtitle</key>
+		<string>Post Office</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.642024, -157.923842}</string>
+		<key>type</key>
+		<string>delivery</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Aloha Center Ballroom</string>
+		<key>subtitle</key>
+		<string>Activities</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.641705, -157.923589}</string>
+		<key>type</key>
+		<string>misc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sewing Center</string>
+		<key>subtitle</key>
+		<string>Learn how to sew your clothes</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.641513, -157.923897}</string>
+		<key>type</key>
+		<string>sewing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Campus Store</string>
+		<key>subtitle</key>
+		<string>Souvenir, Clothes, Books</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.641609, -157.924306}</string>
+		<key>type</key>
+		<string>store</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>The Hub Game Center</string>
+		<key>subtitle</key>
+		<string>Bowling, Video Games, VR, Ping Pong</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.642052, -157.924238}</string>
+		<key>type</key>
+		<string>hub</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Little Circle</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>priority</key>
+		<string>800</string>
+		<key>location</key>
+		<string>{21.642138, -157.925293}</string>
+		<key>type</key>
+		<string>flag</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Ceramics Studio Building</string>
+		<key>subtitle</key>
+		<string></string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.641591, -157.927908}</string>
+		<key>type</key>
+		<string>misc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>P1</string>
+		<key>subtitle</key>
+		<string>Computer Lab</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.641915, -157.927320}</string>
+		<key>type</key>
+		<string>misc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>P2</string>
+		<key>subtitle</key>
+		<string>Computer Lab</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.641897, -157.927198}</string>
+		<key>type</key>
+		<string>misc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>P3</string>
+		<key>subtitle</key>
+		<string>Computer Lab</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.641883, -157.927069}</string>
+		<key>type</key>
+		<string>misc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Parking</string>
+		<key>subtitle</key>
+		<string>Main (Any Time)</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.643323, -157.923522}</string>
+		<key>type</key>
+		<string>parking</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Campus Distribution Center</string>
+		<key>subtitle</key>
+		<string>FedEx &amp; UPS Drop Off</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.639239, -157.923783}</string>
+		<key>type</key>
+		<string>delivery</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Academic Advisor</string>
+		<key>subtitle</key>
+		<string>Academic</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.640457, -157.925539}</string>
+		<key>type</key>
+		<string>misc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Social Science Building</string>
+		<key>subtitle</key>
+		<string>Academic</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.640429, -157.926008}</string>
+		<key>type</key>
+		<string>misc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hale 10</string>
+		<key>subtitle</key>
+		<string>Female Apartment Style</string>
+		<key>priority</key>
+		<string>800</string>
+		<key>location</key>
+		<string>{21.639370, -157.927452}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hale 9</string>
+		<key>subtitle</key>
+		<string>Female Dorm Style</string>
+		<key>priority</key>
+		<string>800</string>
+		<key>location</key>
+		<string>{21.639988, -157.927329}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hale 8</string>
+		<key>subtitle</key>
+		<string>Female Dorm Style</string>
+		<key>priority</key>
+		<string>800</string>
+		<key>location</key>
+		<string>{21.639265, -157.926127}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hale 6</string>
+		<key>subtitle</key>
+		<string>Female Apartment Style</string>
+		<key>priority</key>
+		<string>800</string>
+		<key>location</key>
+		<string>{21.639245, -157.926787}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hale 4</string>
+		<key>subtitle</key>
+		<string>Female Apartment Style</string>
+		<key>priority</key>
+		<string>800</string>
+		<key>location</key>
+		<string>{21.639953, -157.926712}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hale 2</string>
+		<key>subtitle</key>
+		<string>Female Apartment Style</string>
+		<key>priority</key>
+		<string>800</string>
+		<key>location</key>
+		<string>{21.640487, -157.926674}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hale 1</string>
+		<key>subtitle</key>
+		<string>Female Apartment Style</string>
+		<key>priority</key>
+		<string>800</string>
+		<key>location</key>
+		<string>{21.640213, -157.924662}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hale 7</string>
+		<key>subtitle</key>
+		<string>Female Dorm Style</string>
+		<key>priority</key>
+		<string>800</string>
+		<key>location</key>
+		<string>{21.639187, -157.925368}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hale 3</string>
+		<key>subtitle</key>
+		<string>Male Apartment Style</string>
+		<key>priority</key>
+		<string>800</string>
+		<key>location</key>
+		<string>{21.639663, -157.924617}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>C Store</string>
+		<key>subtitle</key>
+		<string>Snacks</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.641416, -157.924419}</string>
+		<key>type</key>
+		<string>store</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Health Center</string>
+		<key>subtitle</key>
+		<string>Emergency</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.640330, -157.925106}</string>
+		<key>type</key>
+		<string>health</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Hale 5</string>
+		<key>subtitle</key>
+		<string>Male Apartment Style</string>
+		<key>priority</key>
+		<string>800</string>
+		<key>location</key>
+		<string>{21.639002, -157.924712}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Heber J Grant Building</string>
+		<key>subtitle</key>
+		<string>Academic (HGB)</string>
+		<key>priority</key>
+		<string>900</string>
+		<key>location</key>
+		<string>{21.642043, -157.927850}</string>
+		<key>type</key>
+		<string>HGB</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Old GYM</string>
+		<key>subtitle</key>
+		<string>Sports</string>
+		<key>priority</key>
+		<string>900</string>
+		<key>location</key>
+		<string>{21.640344, -157.923266}</string>
+		<key>type</key>
+		<string>sports</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Lorenzo Snow Building</string>
+		<key>subtitle</key>
+		<string>Administration</string>
+		<key>priority</key>
+		<string>900</string>
+		<key>location</key>
+		<string>{21.642111, -157.922926}</string>
+		<key>type</key>
+		<string>administration</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Cannon Activity Center</string>
+		<key>subtitle</key>
+		<string>Sports (CAC)</string>
+		<key>priority</key>
+		<string>900</string>
+		<key>location</key>
+		<string>{21.641211, -157.922814}</string>
+		<key>type</key>
+		<string>sports</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>David O. McKay Building</string>
+		<key>subtitle</key>
+		<string>Academic</string>
+		<key>priority</key>
+		<string>900</string>
+		<key>location</key>
+		<string>{21.641213, -157.925433}</string>
+		<key>type</key>
+		<string>misc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Joseph F. Smith Library</string>
+		<key>subtitle</key>
+		<string>Academic</string>
+		<key>priority</key>
+		<string>900</string>
+		<key>location</key>
+		<string>{21.641812, -157.926527}</string>
+		<key>type</key>
+		<string>library</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Stake Center</string>
+		<key>subtitle</key>
+		<string>Church Building</string>
+		<key>priority</key>
+		<string>900</string>
+		<key>location</key>
+		<string>{21.642955, -157.927449}</string>
+		<key>type</key>
+		<string>church</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Temple View Apartments</string>
+		<key>subtitle</key>
+		<string>Married Student Housing</string>
+		<key>priority</key>
+		<string>900</string>
+		<key>location</key>
+		<string>{21.644769, -157.928386}</string>
+		<key>type</key>
+		<string>housing</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Aloha Center</string>
+		<key>subtitle</key>
+		<string>Welcome (ACR)</string>
+		<key>priority</key>
+		<string>900</string>
+		<key>location</key>
+		<string>{21.641808,-157.924121}</string>
+		<key>type</key>
+		<string>misc</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Cafeteria</string>
+		<key>subtitle</key>
+		<string>Dining</string>
+		<key>priority</key>
+		<string>700</string>
+		<key>location</key>
+		<string>{21.641301,-157.924380}</string>
+		<key>type</key>
+		<string>food</string>
+	</dict>
+</array>
+</plist>
